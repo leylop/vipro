@@ -1,6 +1,4 @@
 # vipro
 proyecto personal
 
-se aplica este proyecto personal para aplicar aplicación de universidad para camaras.
-
-Proyecto en desarrollo.
+se aplica este proyecto personal para realizar aplicación de universidad para camaras.
